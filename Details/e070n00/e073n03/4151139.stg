@@ -1,0 +1,28 @@
+# piers_e070n00_e073n03_4151139
+# do not edit below this line
+# Last Written Thu Jul  9 17:18:17 2020
+#
+OBJECT_STATIC e070n00_e073n03_4151139piers0605.ac 73.49201 3.59948 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 73.49888 3.59546 -0.00 5.46241
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49898 3.59552 -0.00 -11.8202
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49902 3.59557 -0.00 -26.6163
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 73.49910 3.59567 -0.00 41.8941
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 73.49924 3.59580 -0.00 49.3088
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49939 3.59592 -0.00 -3.68159
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49953 3.59600 -0.00 3.09441
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 73.49969 3.59606 -0.00 72.5183
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 73.49985 3.59610 -0.00 21.4187
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 73.49986 3.59611 -0.00 260.169
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 73.49972 3.59624 -0.00 308.642
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 73.49953 3.59637 -0.00 300.801
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 73.49931 3.59648 -0.00 291.953
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 73.49913 3.59654 -0.00 224.223
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49909 3.59651 -0.00 99.3361
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49913 3.59637 -0.00 106.568
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 73.49916 3.59618 -0.00 171.824
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 73.49918 3.59599 -0.00 119.742
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 73.49915 3.59580 -0.00 192.199
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 73.49912 3.59562 -0.00 132.953
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.49821 3.59159 0.00 23.8436
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 73.49814 3.59108 0.00 36.6327
+# END piers_e070n00_e073n03_4151139

@@ -1,0 +1,30 @@
+# piers_e070n00_e072n05_4134863
+# do not edit below this line
+# Last Written Thu Jul  9 17:03:35 2020
+#
+OBJECT_STATIC e070n00_e072n05_4134863piers0100.ac 72.90206 5.13404 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.90720 5.13516 -0.02 110.841
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90721 5.13509 -0.02 107.017
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90723 5.13501 -0.02 100.443
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.90727 5.13494 -0.02 93.9356
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 72.90731 5.13486 -0.02 91.8666
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90736 5.13475 -0.02 93.0299
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90741 5.13465 -0.02 93.0299
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90745 5.13455 -0.02 100.559
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.90738 5.13347 -0.02 166.257
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 72.90720 5.13332 -0.02 232.441
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 72.90699 5.13317 -0.02 237.532
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 72.90681 5.13306 -0.02 239.32
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.90665 5.13297 -0.02 184.196
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 72.90647 5.13290 -0.02 249.623
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90629 5.13284 -0.02 193.852
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90612 5.13279 -0.02 196.203
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90595 5.13276 -0.02 199.818
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90581 5.13273 -0.02 203.47
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90565 5.13272 -0.02 207.797
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.90549 5.13272 -0.02 208.228
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 72.90532 5.13272 -0.02 272.003
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90514 5.13273 -0.02 216.175
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.90499 5.13275 -0.02 217.811
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.90484 5.13277 -0.02 220.386
+# END piers_e070n00_e072n05_4134863

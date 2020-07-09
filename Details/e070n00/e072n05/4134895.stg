@@ -1,0 +1,31 @@
+# piers_e070n00_e072n05_4134895
+# do not edit below this line
+# Last Written Thu Jul  9 17:04:12 2020
+#
+OBJECT_STATIC e070n00_e072n05_4134895piers0001.ac 72.88403 5.65213 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.88121 5.65455 -0.32 74.0562
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.88131 5.65446 -0.32 68.2649
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 72.88148 5.65434 -0.32 122.615
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.88165 5.65424 -0.32 54.1977
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 72.88177 5.65420 -0.32 48.8249
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.88190 5.65416 -0.32 41.0807
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.88201 5.65414 -0.32 38.5973
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.88210 5.65413 -0.32 33.8637
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 72.88321 5.65233 -0.40 350.191
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 72.88316 5.65257 -0.40 342.699
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 72.88307 5.65279 -0.40 335.772
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 72.88291 5.65312 -0.40 332.805
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 72.88274 5.65342 -0.40 324.706
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 72.88262 5.65358 -0.40 259.984
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 72.88248 5.65374 -0.40 316.557
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 72.88225 5.65395 -0.40 311.117
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 72.88204 5.65412 -0.40 303.615
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 72.88177 5.65428 -0.40 299.017
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.88153 5.65440 -0.40 232.535
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 72.88140 5.65445 -0.40 228.029
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 72.88124 5.65450 -0.40 285.671
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 72.88104 5.65456 -0.40 286.859
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 72.88454 5.65250 -0.00 255.117
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 72.88434 5.65255 -0.00 201.444
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 72.88454 5.65250 -0.00 255.117
+# END piers_e070n00_e072n05_4134895

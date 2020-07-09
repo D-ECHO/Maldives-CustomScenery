@@ -1,0 +1,9 @@
+# piers_e070n00_e073n01_4151033
+# do not edit below this line
+# Last Written Thu Jul  9 17:12:43 2020
+#
+OBJECT_STATIC e070n00_e073n01_4151033piers0600.ac 73.24185 1.88404 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 73.24626 1.88348 0.00 289.044
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.24717 1.88388 -0.00 36.2219
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.24654 1.88351 -0.00 123.66
+# END piers_e070n00_e073n01_4151033

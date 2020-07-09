@@ -1,0 +1,16 @@
+# piers_e070n00_e073n05_4151291
+# do not edit below this line
+# Last Written Thu Jul  9 17:35:03 2020
+#
+OBJECT_STATIC e070n00_e073n05_4151291piers0000.ac 73.38403 5.88404 0.00 0
+OBJECT_STATIC e070n00_e073n05_4151291piers0005.ac 73.38403 5.97447 0.00 0
+OBJECT_STATIC e070n00_e073n05_4151291piers0204.ac 73.42016 5.95638 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 73.39114 5.96728 0.00 226.186
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.41364 5.94976 -0.06 -155.505
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.41429 5.95060 -0.06 -110.745
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 73.37883 5.88438 -0.01 60.5349
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.37873 5.88458 -0.01 70.541
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 73.37873 5.88458 -0.01 70.541
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 73.37883 5.88438 -0.01 60.5349
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 73.37883 5.88438 -0.01 60.5349
+# END piers_e070n00_e073n05_4151291
